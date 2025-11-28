@@ -45,7 +45,7 @@ expert=0
 msgsfont=3;90;0;0;43;<plist version="1.0"><dict><key>NSFontNameAttribute</key><string>CourierNewPSMT</string><key>NSFontSizeAttribute</key><real>12</real></dict></plist>
 pdfviewer=
 preset_instruments=guitar
-preset_notations=
+preset_notations=common notation
 preset_stylemods=
 preset_styles=modern 1
 preset_tasks=
@@ -58,8 +58,9 @@ xpose_acc=0
 xpose_from=0
 xpose_to=0
 [recents]
-0=/Users/madhurtoppo/workspace/journal/notes/music/barbaad.pro
-1=/Users/madhurtoppo/workspace/chordpro/saiyaara.chordpro
+0=/Users/madhurtoppo/workspace/journal/notes/music/song.pro
+1=/Users/madhurtoppo/workspace/journal/notes/music/barbaad.pro
+2=/Users/madhurtoppo/workspace/chordpro/saiyaara.chordpro
 [sash]
 editor_lr=690
 editor_tb=477
